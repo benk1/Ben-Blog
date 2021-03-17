@@ -1,7 +1,7 @@
 const Navbar = () => {
 	return (
 		<nav className='navbar'>
-			<h1>Ben Blog</h1>
+			<h1>Ben's Blog</h1>
 			<div className='links'>
 				<a href='/'>Home</a>
 				<a href='/create'>New Blog</a>
@@ -11,3 +11,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+

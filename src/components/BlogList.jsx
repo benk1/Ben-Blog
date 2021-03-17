@@ -1,4 +1,5 @@
 const BlogList = ({ blogs }) => {
+	// console.log(onDelete);
 	return (
 		<div className='blog-list'>
 			{blogs.map((blog) => (
